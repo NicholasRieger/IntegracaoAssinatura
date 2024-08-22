@@ -154,6 +154,58 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+# Ignorar arquivos temporários do sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar diretórios de sistema do macOS
+.AppleDouble
+.LSOverride
+
+# Ignorar arquivos gerados por editores e IDEs comuns
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+*.code-workspace
+
+# Ignorar arquivos de cache
+.cache/
+*.log
+
+# Ignorar arquivos de saída de build (se você estiver usando algum pré-processador CSS ou ferramenta de build)
+build/
+dist/
+node_modules/
+
+# Ignorar arquivos temporários de editor
+*.tmp
+
+# Ignorar arquivos de configuração local
+.env
+.local
+
+# Ignorar arquivos e diretórios que não são necessários no repositório
+*.bak
+*.old
+*.orig
+*.tmp
+*.temp
+*.backup
+
+# Ignorar arquivos CSS gerados por compiladores ou pré-processadores (se aplicável)
+*.css.map
+*.min.css
+
+# Ignorar arquivos HTML gerados (se aplicável)
+*.min.html
+
+# Incluir explicitamente arquivos HTML e CSS (não são ignorados por padrão)
+!*.html
+!*.css
+
+
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
 #  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
