@@ -79,6 +79,14 @@ Ou use a extensão Code Runner no VSCode para executar o script.
 
 Após a conclusão da atualização das assinaturas, um e-mail de notificação é enviado para o endereço especificado (notificacao@sua-empresa.com). Este e-mail confirma que a integração foi realizada com sucesso e que todas as assinaturas foram atualizadas conforme o esperado.
 
+- * *Configuração do Envio de E-mail* *:
+
+- Credenciais de Envio: Certifique-se de que as credenciais de autenticação usadas no script para enviar e-mails estão configuradas corretamente.
+
+- Destinatário: O e-mail de notificação é enviado para notificacao@sua-empresa.com. Substitua este endereço conforme necessário para o seu caso.
+
+- Conteúdo do E-mail: A mensagem de e-mail confirma que a integração foi realizada e pode ser ajustada conforme suas necessidades.
+
 # Observações
 - Certifique-se de que a conta de serviço tenha as permissões necessárias para modificar as configurações do Gmail dos usuários.
 - Personalize o HTML conforme necessário para atender aos padrões visuais da sua organização.
