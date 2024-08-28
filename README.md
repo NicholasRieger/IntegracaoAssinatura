@@ -1,6 +1,6 @@
 # Gerador de Assinaturas de E-mail Automatizadas
 
-+ Este projeto automatiza a criação e configuração de assinaturas de e-mail personalizadas para usuários em uma organização. Ele utiliza a API do Gmail e do Google Sheets para aplicar assinaturas em contas de e-mail a partir de dados fornecidos em uma planilha do Google Sheets.
+Este projeto automatiza a criação e configuração de assinaturas de e-mail personalizadas para usuários em uma organização. Ele utiliza a API do Gmail e do Google Sheets para aplicar assinaturas em contas de e-mail a partir de dados fornecidos em uma planilha do Google Sheets.
 
 ## Pré-requisitos
 
